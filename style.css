@@ -47,3 +47,13 @@
 .container h2{
     font-size: 2em;
 }
+.contact{
+    width: 100%;
+    height: 300px;
+    background: rgba(0, 0, 0, 0.84);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
